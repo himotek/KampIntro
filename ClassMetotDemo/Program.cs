@@ -24,11 +24,11 @@ namespace ClassMetotDemo
 
             foreach (var musteri in musteriler)
             {
-                Console.WriteLine("Müşteri Id : " + musteri.Id);
-                Console.WriteLine("Müşteri Ad : " + musteri.Name);
-                Console.WriteLine("Müşteri Soyad : " + musteri.Surname);
-                Console.WriteLine("Müşteri Yaşı : " + musteri.Age);
-                Console.WriteLine("Müşteri Gelir : " + musteri.Balance);
+                Console.WriteLine("Customer Id : " + musteri.Id);
+                Console.WriteLine("Customer Name : " + musteri.Name);
+                Console.WriteLine("Customer Surname : " + musteri.Surname);
+                Console.WriteLine("Customer Age : " + musteri.Age);
+                Console.WriteLine("Customer Balance : " + musteri.Balance);
                 Console.WriteLine("----------------");
             }
 
