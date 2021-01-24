@@ -24,6 +24,7 @@ namespace Metotlar
             urun2.Fiyati = 80;
             urun2.Aciklama = "Diyarbakır Karpuzu";
             urun2.StokAdedi = 21;
+            
 
             Urun[] urunler = new Urun[] { urun1, urun2 };
 
